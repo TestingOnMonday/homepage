@@ -1,0 +1,11 @@
+header {
+	background-image: url("/assets/img/header.png");
+}
+h1 {
+	text-align: center;
+	font-family: LouisCafe;
+}
+@font-face {
+	font-family: LouisCafe;
+	src: url("/assets/font/Louis\ George\ Cafe\ Bold.ttf");
+}
